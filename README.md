@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="">Reasoning-DDos: </a></h1>
+<h1 align="center"> <a href="">Reasoning Attack: Inducing LLM to Never-End Thinking</a></h1>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h5>
 
 

@@ -12,7 +12,7 @@ We do hope the community could find solution to the bug soon preventing from bei
 
 Following figure shows our optimizing pipeline.
 
-![pipeline](https://github.com/user-attachments/assets/82b8bb9d-b21b-433e-b7b2-79f3d8576826)
+![pipeline](assets/pipeline.jpg)
 
 # 💡Highlights
 

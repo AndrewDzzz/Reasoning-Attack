@@ -8,7 +8,9 @@ However, they will be trapped in over-reasoning even endless thinking when proce
 With such never-end thinking queries, hackers can crack down a model server in a cheaper DDoS way for that a single query would occupy the resources until reaching maximal tokens constraint. 
 This catastrophe bug, never-end thinking query, will undermine the open-source development eco-system relies on reasoning LLMs. In this report, we release a reasoning attack pipeline cracking LLM Reasoning models, finding those over-reasoning queries. 
 Worse still, those queries can transfer across the same series of distilled models. 
-We do hope the community could find solution to the bug soon preventing from being exposure to potential threats. 
+We do hope the community could find solution to the bug soon preventing from being exposure to potential threats.
+
+Following figure shows our optimizing pipeline.
 
 ![pipeline](https://github.com/user-attachments/assets/82b8bb9d-b21b-433e-b7b2-79f3d8576826)
 
@@ -32,7 +34,7 @@ https://github.com/user-attachments/assets/f8a4a8cf-6208-40cb-a480-cf01b9b5a203
 
 https://github.com/user-attachments/assets/33844deb-8baf-45cc-9676-40a8cc56b670
 
-https://github.com/user-attachments/assets/60a29932-4c20-497e-8470-c03df9b4130b
+https://github.com/user-attachments/assets/137de290-7077-4e15-99e1-c01ad3666e81
 
 
 ## Repetitive Sequence

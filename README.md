@@ -38,6 +38,8 @@ https://github.com/user-attachments/assets/137de290-7077-4e15-99e1-c01ad3666e81
 
 
 ## Repetitive Sequence
+Encountering over-reasoning attack query, the reasoning model would repeat some sequences until running out of tokens, shown in following figure, the purple background marks out the repetitive sequence in response.
+
 ![](assets/repetitive-demo.jpg)
 
 ## DDoS

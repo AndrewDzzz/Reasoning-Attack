@@ -48,7 +48,7 @@ We run a toy experiment on comparing over-reasoning queries and normal queries c
 We deploy DeepSeek-R1-Distill-Qwen-1.5B on a single Nvidia 4090 GPU, running over-reasoning query and normal query recording their GPU occupation as following.
 As shown in figure, with only a few over-reasoning request will take the whole GPU resource, it would be a nightmare that hacker take the property as a DDoS tactic to attack servers.
 
-![](assets/GPU-Occupation.jpg)
+<img src="assets/GPU-Occupation.jpg" alt="GPU-Occupation" width="400">
 
 # 💬Discussion
 

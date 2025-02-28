@@ -63,5 +63,5 @@ We will continue working on its causation through its RL based training process 
 
 # Contact
 * Jiayu Yao: jiayu_yao@pku.edu.cn
-* Kunpeng Ning: ningkp@stu.pkeu.edu.cn
+* Kunpeng Ning: ningkp@stu.pku.edu.cn
 
